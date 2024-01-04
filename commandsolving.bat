@@ -1,0 +1,1 @@
+matlab -batch "run('solvebymatlab.m'); exit;"
